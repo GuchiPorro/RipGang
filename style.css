@@ -28,6 +28,16 @@ h1 {
     color: #fff;
 }
 
+.h4 {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+.h4 {
+    font-size: 1.2em;
+}
+
 .p1 {
     font-size: 20px;
     font-weight: 500;
