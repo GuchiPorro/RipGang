@@ -1,0 +1,51 @@
+#background1 {
+    background-color: #000;
+}
+
+.background2 {
+    background-color: #fff;
+}
+
+h1 { 
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+h1 {
+    font-size: 5em;
+    color: #fff;
+}
+
+.h2-h3 {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+.h2-h3 {
+    font-size: 2em;
+    color: #fff;
+}
+
+.p1 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+.p1 {
+    font-size: 1em;
+    color: #fff;
+}
+
+#p2 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+#p2 {
+    font: 1.5em;
+    color: #000;
+}
