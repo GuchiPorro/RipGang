@@ -17,7 +17,7 @@ h1 {
     font-family: 'Sawarabi Gothic', sans-serif;
     padding-left: 10px;
     color: #fff;
-    text-shadow: 2px 2px 8px #fff;
+    text-shadow: 6px 6px 15px #fff;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 .img {
     border: 2px solid #fff;
     border-radius: 10px;
-    box-shadow: 2px 2px 8px 0 #fff;
+    box-shadow: 3px 3px 9px 0 #fff;
 }
 
 #ol1 {
@@ -41,7 +41,7 @@ h1 {
     font-family: 'Sawarabi Gothic', sans-serif;
     padding: 10px;
     color: #fff;
-    text-shadow: 2px 2px 8px #fff;
+    text-shadow: 6px 6px 15px #fff;
 }
 
 .h2-h3 {
@@ -58,7 +58,7 @@ h1 {
 .iframe1 {
     border: 2px solid #fff;
     border-radius: 10px;
-    box-shadow: 2px 2px 8px 0 #fff;
+    box-shadow: 3px 3px 9px 0 #fff;
 }
 
 .p1 {
