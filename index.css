@@ -16,11 +16,18 @@ h1 {
     font-weight: 900;
     font-family: 'Sawarabi Gothic', sans-serif;
     padding-left: 10px;
+    color: #fff;
+    text-shadow: 2px 2px 8px #fff;
 }
 
 h1 {
     font-size: 5em;
-    color: #fff;
+}
+
+.img {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px 0 #fff;
 }
 
 #ol1 {
@@ -33,22 +40,25 @@ h1 {
     font-weight: 900;
     font-family: 'Sawarabi Gothic', sans-serif;
     padding: 10px;
+    color: #fff;
+    text-shadow: 2px 2px 8px #fff;
 }
 
 .h2-h3 {
     font-size: 2em;
-    color: #fff;
 }
 
 .h4 {
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 900;
     font-family: 'Sawarabi Gothic', sans-serif;
     padding: 4px;
 }
 
-.h4 {
-    font-size: 1.2em;
+.iframe1 {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px 0 #fff;
 }
 
 .p1 {
@@ -60,8 +70,13 @@ h1 {
 }
 
 .p1 {
-    font-size: 1.1em;
+    font-size: 1.4em;
     color: #fff;
+}
+
+#ul2 {
+    font-size: 14px;
+    padding-left: 5px;
 }
 
 #p2 {
@@ -73,6 +88,6 @@ h1 {
 }
 
 #p2 {
-    font: 1.4em;
+    font: 1.3em;
     color: #000;
 }
