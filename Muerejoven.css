@@ -1,0 +1,201 @@
+#background1 {
+    background-color: #000;
+}
+
+.background2 {
+    background-color: #9F9FAD;
+}
+
+.mainpage {
+    border: 8px solid #272727;
+    border-radius: 20px;
+    box-shadow: 3px 3px 9px 0 #272727;
+    width: 1300px;
+    height: 4430px;
+    background: #272727;
+    margin: auto;
+}
+
+.biografia {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 0 #F4442E;
+}
+
+.canciones {
+    display: inline-block;
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 0 #F4442E;
+    margin-top: 15px;
+}
+
+.redes {
+    display: inline-block;
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 0 #F4442E;
+    position: relative;
+    top: -3550px;
+    left: 100px;
+    text-align: center;
+}
+
+h1 { 
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding-left: 10px;
+    color: #F4442E;
+    text-shadow: 6px 6px 15px #F4442E;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.h2-h3 {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding: 10px;
+    color: #F4442E;
+    text-shadow: 6px 6px 15px #F4442E;
+}
+
+.h2-h3 {
+    font-size: 2em;
+}
+
+.h4 {
+    font-size: 14px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding: 4px;
+    margin-left: 10px;
+}
+
+.img {
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 9px 0 #F4442E;
+    margin-left: 10px;
+}
+
+.iframe1 {
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 1.5px 1.5px 5px 0 #F4442E;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.ul1 {
+    font-size: 14px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.ul2 {
+    font-size: 14px;
+    padding: 5px;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+/*
+
+#li1 {
+    list-style: none;
+    padding-left: 30px; 
+    height: 10px;
+    width: 10px;
+    background-image: url('youtube.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    display: flex; 
+    align-items: center;
+}
+
+#li2 {
+    list-style: none;
+    padding-left: 30px; 
+    height: 10px;
+    width: 10px;
+    background-image: url('spotify.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    display: flex; 
+    align-items: center;
+}
+
+#li3 {
+    list-style: none;
+    padding-left: 30px; 
+    height: 10px;
+    width: 10px;
+    background-image: url('instagram.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    display: flex; 
+    align-items: center;
+}
+
+#li4 {
+    list-style: none;
+    padding-left: 30px; 
+    height: 10px;
+    width: 10px;
+    background-image: url('twitter.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    display: flex; 
+    align-items: center;
+}
+
+*/
+
+#ol1 {
+    font-size: 14px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.p1 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding-bottom: 5px;
+    margin-left: 5px;
+}
+
+.p1 {
+    font-size: 1.4em;
+    color: #fff;
+}
+
+#p2 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding-top: 3px;
+    margin-left: 5px;
+}
+
+#p2 {
+    font: 1.3em;
+    color: #000;
+}
+
+.p3 {
+    margin-left: 5px;
+    color: #fff;
+}

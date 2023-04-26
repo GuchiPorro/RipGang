@@ -1,0 +1,110 @@
+#background1 {
+    background-color: #000;
+}
+
+.background2 {
+    background-color: #9F9FAD;
+}
+
+.mainpage {
+    border: 8px solid #272727;
+    border-radius: 20px;
+    box-shadow: 3px 3px 9px 0 #272727;
+    width: 1300px;
+    height: 1300px;
+    background: #272727;
+    margin: auto;
+}
+
+.biografia {
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 0 #F4442E;
+}
+
+.canciones {
+    display: inline-block;
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 0 #F4442E;
+    margin-top: 15px;
+}
+
+h1 { 
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding-left: 10px;
+    color: #F4442E;
+    text-shadow: 6px 6px 15px #F4442E;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.h2-h3 {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding: 10px;
+    color: #F4442E;
+    text-shadow: 6px 6px 15px #F4442E;
+}
+
+.h2-h3 {
+    font-size: 2em;
+}
+
+.img {
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 9px 0 #F4442E;
+    margin-left: 10px;
+}
+
+.ul1 {
+    font-size: 14px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+#ol1 {
+    font-size: 14px;
+    padding: 10px;
+    list-style-type: none;
+}
+
+.p1 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding-bottom: 5px;
+    margin-left: 5px;
+}
+
+.p1 {
+    font-size: 1.4em;
+    color: #fff;
+}
+
+#p2 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    padding-top: 3px;
+    margin-left: 5px;
+}
+
+#p2 {
+    font: 1.3em;
+    color: #000;
+}
+
+.p3 {
+    margin-left: 5px;
+    color: #fff;
+}
