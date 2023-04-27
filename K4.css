@@ -1,9 +1,14 @@
 #background1 {
-    background-color: #000;
+    background-image: url(backgroundsara.jpg);
 }
 
 .background2 {
     background-color: #9F9FAD;
+}
+
+.main {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .mainpage {
@@ -11,9 +16,17 @@
     border-radius: 20px;
     box-shadow: 3px 3px 9px 0 #272727;
     width: 1300px;
-    height: 4480px;
+    height: 4510px;
     background: #272727;
     margin: auto;
+}
+
+.artista {
+    text-align: left;
+}
+
+.indice {
+    text-align: left;
 }
 
 .biografia {
@@ -39,7 +52,7 @@
     border-radius: 10px;
     box-shadow: 2px 2px 5px 0 #F4442E;
     position: relative;
-    top: -3550px;
+    top: -3590px;
     left: 100px;
     text-align: center;
 }
@@ -71,7 +84,7 @@ h1 {
 }
 
 .h4 {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 900;
     font-family: 'Sawarabi Gothic', sans-serif;
     padding: 4px;
@@ -79,6 +92,8 @@ h1 {
 }
 
 .img {
+    width: 300px;
+    height: 300px;
     border: 2px solid #F4442E;
     border-radius: 10px;
     box-shadow: 3px 3px 9px 0 #F4442E;
@@ -86,6 +101,8 @@ h1 {
 }
 
 .iframe1 {
+    width: 824px;
+    height: 480px;
     border: 2px solid #F4442E;
     border-radius: 10px;
     box-shadow: 1.5px 1.5px 5px 0 #F4442E;
@@ -95,19 +112,23 @@ h1 {
 }
 
 .ul1 {
-    font-size: 14px;
+    font-size: 18px;
     padding: 10px;
     list-style-type: none;
+    font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .ul2 {
-    font-size: 14px;
+    font-size: 18px;
     padding: 5px;
+    font-family: 'Sawarabi Gothic', sans-serif;
     list-style-position: inside;
     list-style-type: none;
 }
 
 /*
+
+Quedan mal los iconos:
 
 #li1 {
     list-style: none;
@@ -164,8 +185,9 @@ h1 {
 */
 
 #ol1 {
-    font-size: 14px;
+    font-size: 18px;
     padding: 10px;
+    font-family: 'Sawarabi Gothic', sans-serif;
     list-style-type: none;
 }
 
@@ -193,9 +215,4 @@ h1 {
 #p2 {
     font: 1.3em;
     color: #000;
-}
-
-.p3 {
-    margin-left: 5px;
-    color: #fff;
 }
