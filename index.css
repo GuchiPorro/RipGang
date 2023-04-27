@@ -1,9 +1,14 @@
 #background1 {
-    background-color: #000;
+    background-image: url(backgroundripgang.jpg);
 }
 
 .background2 {
     background-color: #9F9FAD;
+}
+
+.main {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .mainpage {
@@ -11,9 +16,17 @@
     border-radius: 20px;
     box-shadow: 3px 3px 9px 0 #272727;
     width: 1300px;
-    height: 1300px;
+    height: 1350px;
     background: #272727;
     margin: auto;
+}
+
+.ripgang {
+    text-align: left;
+}
+
+.indice {
+    text-align: left;
 }
 
 .biografia {
@@ -66,15 +79,29 @@ h1 {
     margin-left: 10px;
 }
 
+#img1 {
+    width: 500px;
+    height: 300px;
+}
+
+#img2 {
+    width: 200px;
+    height: 200px;
+}
+
 .ul1 {
-    font-size: 14px;
+    font-size: 18px;
     padding: 10px;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-weight: 400;
     list-style-type: none;
 }
 
 #ol1 {
-    font-size: 14px;
+    font-size: 18px;
     padding: 10px;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-weight: 400;
     list-style-type: none;
 }
 
