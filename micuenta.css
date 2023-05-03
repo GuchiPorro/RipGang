@@ -21,6 +21,12 @@
     margin: auto;
 }
 
+#micuenta {
+    border: 2px solid #F4442E;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 0 #F4442E;
+}
+
 h1 { 
     font-size: 20px;
     font-weight: 900;
